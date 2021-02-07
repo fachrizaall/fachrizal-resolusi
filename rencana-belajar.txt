@@ -1,0 +1,6 @@
+Rencana Belajar Kedepannya
+- Belajar Laravel
+  - Membuat SI Perpus
+- Belajar CPNS
+- Belajar Javascript
+- Belajar CSS Bootstrap
