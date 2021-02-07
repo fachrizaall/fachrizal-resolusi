@@ -1,7 +1,10 @@
 Rencana Belajar Kedepannya
-- Belajar Laravel
-  - Membuat SI Perpus
+- Belajar PHP
+  - Framework
+     - Laravel
+       - Membuat SI Perpus
 - Belajar CPNS
 - Belajar Javascript
+  - Belajar Angular
+  - Belajar React
 - Belajar CSS Bootstrap
-- Belajar React
