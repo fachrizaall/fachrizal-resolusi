@@ -11,4 +11,6 @@ Rencana Belajar Kedepannya
 - Belajar Javascript
   - Framework
     - React
-- Belajar CSS Bootstrap
+- Belajar CSS
+  - Framework
+    - Bootstrap
