@@ -1,7 +1,9 @@
 Rencana Belajar Kedepannya
-- Belajar CodeIgniter 4
-- Belajar Laravel
-  - Membuat SI Perpus
+- Belajar PHP
+  - Framework
+     - CodeIgniter 4
+     - Laravel
+       - Membuat SI Perpus
 - Belajar CPNS
   - TWK
   - TIU
