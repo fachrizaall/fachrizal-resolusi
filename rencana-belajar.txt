@@ -4,3 +4,4 @@ Rencana Belajar Kedepannya
 - Belajar CPNS
 - Belajar Javascript
 - Belajar CSS Bootstrap
+- Belajar React
