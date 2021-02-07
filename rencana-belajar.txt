@@ -1,10 +1,14 @@
 Rencana Belajar Kedepannya
 - Belajar PHP
   - Framework
+     - CodeIgniter 4
      - Laravel
        - Membuat SI Perpus
 - Belajar CPNS
+  - TWK
+  - TIU
+  - TKP
 - Belajar Javascript
-  - Belajar Angular
-  - Belajar React
+  - Framework
+    - React
 - Belajar CSS Bootstrap
