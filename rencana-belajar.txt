@@ -7,5 +7,6 @@ Rencana Belajar Kedepannya
   - TIU
   - TKP
 - Belajar Javascript
+  - Framework
+    - React
 - Belajar CSS Bootstrap
-- Belajar React
